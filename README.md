@@ -1,2 +1,0 @@
-# demo-frontend
-demo-frontend
